@@ -1,0 +1,47 @@
+.cover{
+  position: relative;
+  top: -3%;
+  left: -6%;
+  width: 112%;
+  z-index: -1;
+}
+main{
+    top: 0%;
+}
+#bg{
+  filter: brightness(200%);
+}
+menu{
+  position: relative;
+  top: -4%;
+  background-color: #fff;
+  opacity: .9;
+  height: 1%;
+}
+menu menuitem.tab{
+  background-color: #fff;
+  width: 19.8%;
+  float: left;
+  margin-right: .25%;
+  border-bottom-left-radius: 3%;
+  border-bottom-right-radius: 3%;
+}
+menu menuitem.tab:hover{
+  background-color: #ccc;
+}
+menu menuitem#tab5{
+  margin-right: 0%;
+
+}
+menu menuitem img{
+  width: 100%
+}
+article.info{
+  display: none;
+  float: left;
+  background-color: white;
+  color: #333;
+  width: 100%;
+  padding: 1%;
+}
+
