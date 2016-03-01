@@ -44,4 +44,19 @@ article.info{
   width: 100%;
   padding: 1%;
 }
+article iframe{
+  float: left;
+}
+article li{
+  color: #333;
+}
+article b{
+  color: #333;
+}
+article ul{
+  float: left;
+  padding: 2%;
+  color: #333;
+  width: 30%;
+}
 

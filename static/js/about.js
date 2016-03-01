@@ -66,7 +66,7 @@ $(document).ready(function(){
         });
 
     $("iframe").css({
-        "padding": "5%"
+        "padding": "0%"
     });
 
     $("#tab1").css({
